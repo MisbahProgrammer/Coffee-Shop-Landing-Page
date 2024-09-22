@@ -5,7 +5,8 @@ function Menu() {
   return (
     <>
     <h2>Menu/Hot Coffees</h2>
-    <div>
+    <div className='mx-auto'>
+        <Coffee/>
         <Coffee/>
     </div>
     </>
