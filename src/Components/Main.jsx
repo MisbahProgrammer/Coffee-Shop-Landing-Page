@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../App.css'
 function Main() {
   return (
     <div className='flex flex-col md:flex-row items-center justify-center gap-4 lg:gap-[240px] mx-auto w-full md:content-center content-center mt-10'>
