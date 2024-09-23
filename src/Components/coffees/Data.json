@@ -1,32 +1,38 @@
 [
     {
-        "img":"public/coffee1.avif",
+        "img":"/coffee1.avif",
         "title":"Veranda Blend",
-        "calories": "5 Calories"
+        "calories": "5 Calories",
+        "id":"1"
     },
     {
-        "img":"public/coffee2.jpg",
+        "img":"/coffee7.jpeg",
         "title": "Coffee Latte",
-        "calories": "7 Calories"
+        "calories": "7 Calories",
+         "id":"2"
     },
     {
-        "img":"public/coffee3.jpg",
+        "img":"/coffee3.jpg",
         "title": "Cappuccino",
-        "calories": "9 Calories"
+        "calories": "9 Calories",
+         "id":"3"
     },
     {
-        "img":"public/coffee1.avif",
+        "img":"/coffee1.avif",
         "title": "Veranda Blend",
-        "calories": "5 Calories"
+        "calories": "5 Calories",
+         "id":"4"
     },
     {
-        "img":"public/coffee2.jpg",
+        "img":"/coffee7.jpeg",
         "title": "Coffee Latte",
-        "calories": "7 Calories"
+        "calories": "7 Calories",
+         "id":"5"
     },
     {
-        "img":"public/coffee3.jpg",
+        "img":"/coffee3.jpg",
         "title": "Cappuccino",
-        "calories": "9 Calories"
+        "calories": "9 Calories",
+         "id":"6"
     }
 ]

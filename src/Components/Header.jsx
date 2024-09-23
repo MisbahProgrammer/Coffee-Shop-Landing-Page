@@ -6,7 +6,7 @@ function Header() {
     setShowMenu(!showMenu)
   }
   return (
-    <div className='flex items-center justify-around w-full py-6 '>
+    <div className='flex items-center justify-around w-[90%] mx-auto pt-6 bg-white'>
         <div><p className='md:text-3xl text-xl font-bold font-sans'>Coffee Shop</p></div>
         <div className='p-4 lg:w-3/12 '>
             <ul className='lg:flex md:flex md:items-center lg:justify-between lg:text-2xl text-xl  hidden'>
